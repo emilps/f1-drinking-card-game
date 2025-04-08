@@ -2,6 +2,8 @@
 
 A dynamic and interactive Streamlit-based drinking card game platform that offers an immersive gaming experience with real-time visualizations and engaging user interactions.
 
+Available here: https://f1-drinking-card-game.streamlit.app/
+
 ## Features
 
 - **F1 Team Theming**: Players can assign Formula 1 teams to card suits (default: Hearts = McLaren, Diamonds = Mercedes, Clubs = Ferrari, Spades = Red Bull)
